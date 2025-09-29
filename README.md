@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-### Linguagens
+### 
+
+### Languages
 
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -12,6 +14,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ActionScript](https://img.shields.io/badge/ActionScript_3-FF6600?style=for-the-badge&logo=actionscript)
+
 
 <!--
 **Albertina-06/Albertina-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
