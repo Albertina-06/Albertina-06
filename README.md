@@ -1,8 +1,19 @@
 ## Hi there 👋
 
-### 
+### Alternative Profiles
 
-### Languages
+https://archive.org/details/@oranje_noctune_devworks
+
+### Video Game Development
+
+<ul>
+  <li>Sega Genesis/Mega CD</li>
+  <li>PS1</li>
+  <li>PS2</li>
+  <li>Dreamcast</li>
+</ul>
+
+### Programming Languages
 
 ![Haxe](https://img.shields.io/badge/Haxe-EA8220?style=for-the-badge&logo=haxe&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
