@@ -27,6 +27,7 @@
 ![XML](https://img.shields.io/badge/XML-8A2BE2?style=for-the-badge&logo=xml&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![ActionScript](https://img.shields.io/badge/ActionScript_3-FF6600?style=for-the-badge&logo=actionscript)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 <!--
